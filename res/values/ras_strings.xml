@@ -233,4 +233,8 @@
     <string name="root_access_apps">Apps only</string>
     <string name="root_access_adb">ADB only</string>
     <string name="root_access_all">Apps and ADB</string>
+
+    <!-- USB Mass Storage -->
+    <string name="storage_rescan_media">Rescan media for the storage volume</string>
+    <string name="storage_rescan_media_complete">Scan completed</string>
 </resources>
