@@ -227,4 +227,8 @@
     
     <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
     <string name="supersu_title">SuperSU</string>
-    </resources>
+
+    <!-- Voice+ -->
+    <string name="voice_plus_title">Voice+</string>
+    <string name="voice_plus_summary">Enable all apps to send SMS messages through Google Voice</string>
+</resources>
