@@ -225,6 +225,15 @@
     <string name="status_bar_double_tap_sleep_pattern_title">Pattern</string>
     <string name="status_bar_double_tap_sleep_pattern_summary">Double tap anywhere on the pattern view</string>
 
+    <!-- Setting checkbox title for root access -->
+    <string name="root_access">Root access</string>
+    <string name="root_access_warning_title">Allow root access?</string>
+    <string name="root_access_warning_message">Allowing applications to request root access is very dangerous and could compromise the security of your system!</string>
+    <string name="root_access_none">Disabled</string>
+    <string name="root_access_apps">Apps only</string>
+    <string name="root_access_adb">ADB only</string>
+    <string name="root_access_all">Apps and ADB</string>
+
     <!-- Voice+ -->
     <string name="voice_plus_title">Voice+</string>
     <string name="voice_plus_summary">Enable all apps to send SMS messages through Google Voice</string>
