@@ -233,8 +233,4 @@
     <string name="root_access_apps">Apps only</string>
     <string name="root_access_adb">ADB only</string>
     <string name="root_access_all">Apps and ADB</string>
-
-    <!-- Voice+ -->
-    <string name="voice_plus_title">Voice+</string>
-    <string name="voice_plus_summary">Enable all apps to send SMS messages through Google Voice</string>
 </resources>
